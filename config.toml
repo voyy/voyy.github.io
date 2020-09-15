@@ -3,6 +3,7 @@ title        = "wojciech łyskawa"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
 paginate     = 10
+relativeURLs = true
 
 [params]
   dateform        = "Jan 2, 2006"
